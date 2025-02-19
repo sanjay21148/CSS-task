@@ -1,0 +1,39 @@
+/*body{
+    background-color: rgb(0, 255, 221);
+}
+.container{
+    background-color: rgb(2, 10, 12);
+    width: 100%;
+    font-size: 60px;
+    color: aqua;
+}
+@media screen and (max-width:600px){
+    body{
+        rgb(0, 255, 221);
+    }
+}
+@media screen and (min-width:601px) and (max-width:900px){
+    body{
+        background-color: rgb(73, 73, 212);}
+.container{
+            background-color: red;
+            color: rgba(245, 245, 245, 0.815);
+        
+    }
+}
+@media screen and (min-width:901px) and (max-width:1200px) {
+    body{
+        background-color: white;
+    }
+    .container{
+        background-color: rgba(255, 68, 0, 0.747);
+        color: rgba(245, 245, 245, 0.815);
+        text-align: center; 
+    }
+}
+*/
+body{
+    background-repeat: no-repeat;
+     background-image: url(img.jpg);
+     background-size: cover;
+}  
