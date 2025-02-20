@@ -1,2 +1,0 @@
-# CSS-task
-CSS-task
